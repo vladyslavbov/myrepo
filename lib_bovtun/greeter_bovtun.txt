@@ -7,3 +7,4 @@ class Greeter
   end
 End
 1
+2
